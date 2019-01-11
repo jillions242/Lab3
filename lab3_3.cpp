@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main (){
-    int number,i=2;
+    int number,i=6;
     float sum=0;
     cout <<"enter :";
     cin>>number;
